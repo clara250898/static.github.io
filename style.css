@@ -1,3 +1,61 @@
 h1 {
   color: red;
 }
+
+.navbar{
+
+	display: flex;
+	background: #F0AA50;
+	margin-bottom: 40px;
+	align-content: center;
+	justify-content: center;
+	justify-content:center;
+}
+
+.link {
+  margin: 10px 30px;
+  color: white;
+}
+
+.link:hover {
+  color: yellow;
+}
+
+.main {
+	text-align: center;
+  font-family: 'arial';
+}
+
+.musicvideo {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 30px;
+}
+
+i {
+	color: #AA7694;
+}
+
+.fas {
+	padding-right: 8px;
+}
+
+
+footer {
+  display: flex;
+  height: 30px;
+  align-content: center;
+  justify-content: space-around;
+  background-color: #EA4B93  ;
+}
+
+.foot, .drop {
+  color: white;
+}
+
+.foot:hover {
+  color: yellow;
+}
+
+}
